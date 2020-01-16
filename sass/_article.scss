@@ -1,0 +1,25 @@
+/* ARTICLE */
+
+.field.field--name-field-image.field--type-image.field--label-hidden.field__item img{
+    border: 0;
+    width: 100%;
+    object-fit: cover;
+}
+.field.field--name-field-tags.field--type-entity-reference.field--label-hidden.field__items {
+    padding-top: 20px;
+    color: #c7c1b6;
+    text-transform: uppercase;
+}
+
+.views-field.views-field-title {
+    padding-bottom: 15px;
+}
+img.filter-image-invalid {
+    width: 100%;
+    object-fit: cover;
+    height: auto;
+}
+.caption > figcaption {
+    padding: 10px;
+    font-style: oblique;
+}
